@@ -32,7 +32,7 @@ README.md
 
 1. Clone repository:
    ```bash
-   git clone URL_REPOSITORY
+   git clone https://github.com/Wulanagsts/uts-backend-lahan-tanaman
    ```
 
 2. Masuk ke folder project:
